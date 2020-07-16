@@ -8,7 +8,7 @@
         }
     ],
     "autoload": {
-        "classmap": [],
+        "classmap": ["src/app/"],
         "psr-4": {
             "VCComponent\\Laravel\\Integration\\": "src/app/"
         }
@@ -19,29 +19,29 @@
         }
     },
     "require": {
-        "webpress/analytics" : "^0.0.3",
-        "webpress/view-model": "^0.0.4",
-        "webpress/category-manager" : "^0.0.2",
+        "webpress/analytics" : "^0.0.4",
+        "webpress/view-model": "^0.0.5",
+        "webpress/category-manager" : "^0.0.3",
         "webpress/core": "^0.0.1",
-        "webpress/comment-manager": "^0.0.2",
-        "webpress/configuration": "^0.0.2",
-        "webpress/contact-manager": "^0.0.2",
-        "webpress/language" : "^0.0.2",
-        "webpress/media-manager" :"^0.0.3",
-        "webpress/menu-manager" : "^0.0.3",
-        "webpress/order-manager" : "^0.0.2",
-        "webpress/payment" : "^0.0.2",
-        "webpress/post-manager" : "^0.0.2",
-        "webpress/product-manager" : "^0.0.2",
-        "webpress/redirector" : "^0.0.2",
-        "webpress/script-manager" : "^0.0.2",
-        "webpress/search" : "^0.0.2",
-        "webpress/seo" : "^0.0.2",
-        "webpress/sitemap" : "^0.0.2",
-        "webpress/tag-manager" : "^0.0.2",
-        "webpress/user-manager" : "^0.0.2",
-        "webpress/utility" : "^0.0.2",
-        "webpress/email-config" : "^0.0.2"
+        "webpress/comment-manager": "^0.0.3",
+        "webpress/configuration": "^0.0.3",
+        "webpress/contact-manager": "^0.0.3",
+        "webpress/language" : "^0.0.3",
+        "webpress/media-manager" :"^0.0.4",
+        "webpress/menu-manager" : "^0.0.4",
+        "webpress/order-manager" : "^0.0.3",
+        "webpress/payment" : "^0.0.3",
+        "webpress/post-manager" : "^0.0.3",
+        "webpress/product-manager" : "^0.0.3",
+        "webpress/redirector" : "^0.0.3",
+        "webpress/script-manager" : "^0.0.3",
+        "webpress/search" : "^0.0.3",
+        "webpress/seo" : "^0.0.3",
+        "webpress/sitemap" : "^0.0.3",
+        "webpress/tag-manager" : "^0.0.3",
+        "webpress/user-manager" : "^0.0.3",
+        "webpress/utility" : "^0.0.3",
+        "webpress/email-config" : "^0.0.3"
 
     },
     "require-dev": {
