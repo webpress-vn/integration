@@ -41,7 +41,7 @@
         "webpress/tag-manager" : "^0.0.2",
         "webpress/user-manager" : "^0.0.2",
         "webpress/utility" : "^0.0.2",
-        "webpress/email-config" : "^0.0.1"
+        "webpress/email-config" : "^0.0.2"
 
     },
     "require-dev": {
